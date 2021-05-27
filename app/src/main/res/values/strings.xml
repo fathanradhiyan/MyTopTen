@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTopTen</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <string name="creator_name">Muhammad Fathan Radhiyan</string>
+    <string name="creator_email">fathanradhiyan@gmail.com</string>
+    <string name="my_top_10">My Top 10</string>
+</resources>
